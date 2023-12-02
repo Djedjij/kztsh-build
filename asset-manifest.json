@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c1f8dea.css",
+    "main.js": "/static/js/main.1de8030c.js",
+    "static/js/787.a18e7bf1.chunk.js": "/static/js/787.a18e7bf1.chunk.js",
+    "static/media/backround-main.jpg": "/static/media/backround-main.e9fab6737f2178792c12.jpg",
+    "static/media/2.jpg": "/static/media/2.3a7dcadbeb4264189856.jpg",
+    "static/media/moaz.jfif": "/static/media/moaz.81e1f590ec2a3e2fa025.jfif",
+    "static/media/belarus.jpg": "/static/media/belarus.ed4b2c8518dbb0d52a55.jpg",
+    "static/media/belaz.jpg": "/static/media/belaz.ea43dac9d6e8e429de7a.jpg",
+    "static/media/mzkt.jpg": "/static/media/mzkt.348a9a18c25fa367eeac.jpg",
+    "static/media/4.jpg": "/static/media/4.db3401519802067d37a3.jpg",
+    "static/media/3.jpg": "/static/media/3.f34139b5b16dbdb1b814.jpg",
+    "static/media/5.jpg": "/static/media/5.cae4b5c0538692e32ca5.jpg",
+    "static/media/6.jpg": "/static/media/6.32bb583122a4cc9f257b.jpg",
+    "static/media/1.jpg": "/static/media/1.5a18badace57ee64d8cd.jpg",
+    "static/media/amkodor.jpg": "/static/media/amkodor.ebaa1596773ee305340e.jpg",
+    "static/media/maz.jpg": "/static/media/maz.f9ee4e45852cdf45738e.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9c1f8dea.css.map": "/static/css/main.9c1f8dea.css.map",
+    "main.1de8030c.js.map": "/static/js/main.1de8030c.js.map",
+    "787.a18e7bf1.chunk.js.map": "/static/js/787.a18e7bf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1f8dea.css",
+    "static/js/main.1de8030c.js"
+  ]
+}
